@@ -1,0 +1,16 @@
+# IDE/Editor klasörleri
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*.swo
+
+# Node.js
+node_modules/
+npm-debug.log
+dist/
+.env
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
