@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Instagram Toplu Takipçi Yönetimi
 
-Bu araç, Instagram'daki takipçilerinizi yönetmenize yardımcı olan bir JavaScript betiğidir.
+Bu araç, Instagram'daki takipçilerinizi yönetmenize yardımcı olan bir JavaScript kodudur.
 
 ## 🚀 Özellikler
 
@@ -18,7 +18,7 @@ Bu araç, Instagram'daki takipçilerinizi yönetmenize yardımcı olan bir JavaS
 3. Kodu konsola yapıştırın ve Enter'a basın
 4. Açılan pencerede "Kaç kişi çekilsin?" kısmına sayı girin (örn: 200)
 5. "Run" butonuna tıklayın
-6. "Takip Etmediklerimi Toplu Seç" ile istemediğiniz takipçileri seçin
+6. "Takip Etmediklerimi Toplu Seç" ile istemediğiniz takipçileri seçin (isteğe bağlı)
 7. "Seçilenleri Çıkar" ile işlemi tamamlayın
 
 ## ⚠️ Uyarılar
