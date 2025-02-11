@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Instagram Toplu Takipçi Yönetimi
 
 Bu araç, Instagram'daki takipçilerinizi yönetmenize yardımcı olan bir JavaScript betiğidir.
@@ -31,3 +32,6 @@ Bu araç, Instagram'daki takipçilerinizi yönetmenize yardımcı olan bir JavaS
 ## 📝 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
+=======
+# instagram-cleanup-script
+>>>>>>> 95ca0cbad4fd2f57c53728e60c41592f64eb7436
